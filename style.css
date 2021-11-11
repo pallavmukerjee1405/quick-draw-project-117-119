@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: royalblue;
+    background-color: greenyellow;
+}
+
+#show_sketch{
+    float:right;
+    margin-right: 30px;
+}
+
+#user_sketch{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#confidence{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#sketch_to_be_drawn{
+    font-size: 30px;
+    font-weight: bolder;
+    color: red;
+}
+
+#score{
+    font-size: 30px;
+    font-weight: bolder;
+    float: left;
+    margin-left: 30px;
+}
+
+#timer{
+    font-size: 30px;
+    font-weight: bolder;
+    float: right;
+    margin-right: 85px;
+}
